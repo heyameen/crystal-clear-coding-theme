@@ -1,0 +1,30 @@
+{
+  "name": "crystal-clear-coding",
+  "displayName": "Crystal Clear Coding",
+  "description": "A visually appealing theme focused on ease of code reading",
+  "version": "1.0.0",
+  "publisher": "YourName",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crystal Clear Coding - Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crystal-clear-coding-night.json"
+      },
+      {
+        "label": "Crystal Clear Coding - Day",
+        "uiTheme": "vs",
+        "path": "./themes/crystal-clear-coding-day.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heyameen/crystal-clear-coding-theme.git"
+  },
+  "license": "MIT"
+}
