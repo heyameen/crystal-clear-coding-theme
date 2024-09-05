@@ -3,11 +3,13 @@
   "displayName": "Crystal Clear Coding",
   "description": "A visually appealing theme focused on ease of code reading",
   "version": "1.0.0",
-  "publisher": "YourName",
+  "publisher": "Ameen Alade",
   "engines": {
     "vscode": "^1.60.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -25,6 +27,22 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/heyameen/crystal-clear-coding-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark theme",
+    "light theme"
+  ],
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#1C1E26",
+    "theme": "dark"
+  },
+  "changelog": "CHANGELOG.md",
+  "homepage": "https://github.com/heyameen/crystal-clear-coding-theme",
+  "bugs": {
+    "url": "https://github.com/heyameen/crystal-clear-coding-theme/issues"
   },
   "license": "MIT"
 }
