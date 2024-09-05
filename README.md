@@ -30,25 +30,6 @@ Crystal Clear Coding is a meticulously crafted Visual Studio Code theme designed
 6. Type "Color Theme" and select "Preferences: Color Theme"
 7. Choose either "Crystal Clear Coding - Night" or "Crystal Clear Coding - Day"
 
-## Customization
-
-Crystal Clear Coding is designed to work great out of the box, but you can further customize it to your liking:
-
-1. Open your `settings.json` file
-2. Add or modify the following settings:
-
-```json
-{
-  "workbench.colorCustomizations": {
-    "[Crystal Clear Coding - Night]": {
-      // Your custom overrides for the dark theme
-    },
-    "[Crystal Clear Coding - Day]": {
-      // Your custom overrides for the light theme
-    }
-  }
-}
-```
 ## Recommended Font
 For the best experience, we recommend using a font with programming ligatures. My favorite is Fira Code, but feel free to use any font you prefer.
 
@@ -66,8 +47,8 @@ This theme is released under the MIT License.
 
 ## Support
 If you enjoy this theme, consider:
-⭐ Starring the repository on GitHub
-🌟 Rating it on the Visual Studio Marketplace
-📢 Sharing it with your friends and colleagues
+- ⭐ Starring the repository on GitHub
+- 🌟 Rating it on the Visual Studio Marketplace
+- 📢 Sharing it with your friends and colleagues
 
 Happy coding with Crystal Clear vision! 🚀
