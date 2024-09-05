@@ -31,7 +31,7 @@ Crystal Clear Coding is a meticulously crafted Visual Studio Code theme designed
 7. Choose either "Crystal Clear Coding - Night" or "Crystal Clear Coding - Day"
 
 ## Recommended Font
-For the best experience, we recommend using a font with programming ligatures. My favorite is Fira Code, but feel free to use any font you prefer.
+For the best experience, I recommend using a font with programming ligatures. My favorite is Fira Code, but feel free to use any font you prefer.
 
 ## Feedback and Contributions
 Your feedback is highly appreciated! If you encounter any issues or have suggestions for improvements:
