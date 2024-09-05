@@ -3,7 +3,7 @@
   "displayName": "Crystal Clear Coding",
   "description": "A visually appealing theme focused on ease of code reading",
   "version": "1.0.0",
-  "publisher": "Ameen Alade",
+  "publisher": "AmeenAlade",
   "engines": {
     "vscode": "^1.60.0"
   },
